@@ -6,4 +6,3 @@ Test
 Am 7.4.21 startet die Veranstaltung IA1 und damit dieses Projekt.  
 */Teilnehmer sind noch hinzuzufügen/* 
  Was ist jetzt passiert? Okay man muss immer speichern...
-  

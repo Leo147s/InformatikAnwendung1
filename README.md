@@ -1,4 +1,4 @@
-# InformatikAnwendung1
+# Informatik Anwendung1
 *Gruppe XY*
 Dieses Projekt wird im Rahmen des Moduls Informatik-Anwendung 1 entstehen. 
 Test

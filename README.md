@@ -5,10 +5,3 @@ Test
 ## Start
 Am 7.4.21 startet die Veranstaltung IA1 und damit dieses Projekt.  
 *Teilnehmer sind noch hinzuzufügen* 
-
-Hab jezt mal einen Branch angelegt, interessant.
-
-Ab jetzt bin ich im VisualStudio.... interessant.
-Branch-Test!
---> fertig! [erfolgreich]
---> Visual Studio Code bearbeitend...

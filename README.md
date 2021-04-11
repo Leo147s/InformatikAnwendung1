@@ -4,4 +4,4 @@ Dieses Projekt wird im Rahmen des Moduls Informatik-Anwendung 1 entstehen.
 Test
 ## Start
 Am 7.4.21 startet die Veranstaltung IA1 und damit dieses Projekt.  
-*Teilnehmer sind noch hinzuzufügen* 
+(GitHub - Training am 12.4.2021) @10am
